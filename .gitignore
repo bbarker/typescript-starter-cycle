@@ -38,3 +38,10 @@ jspm_packages
 
 # Generated files
 dist
+
+# Typings
+typings/
+
+#Ignore IntelliJ files
+.idea
+*.iml
