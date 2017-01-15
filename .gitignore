@@ -41,3 +41,7 @@ dist
 
 # Typings
 typings/
+
+#Ignore IntelliJ files
+*.iml
+.idea
